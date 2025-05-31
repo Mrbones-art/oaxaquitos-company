@@ -66,10 +66,10 @@
 
 ## ðŸ”— Enlaces relevantes
 
-- Repositorio en GitHub: [enlace]  
-- Documento de diseño (GDD): [enlace]  
+- Repositorio en GitHub:(https://github.com/Mrbones-art/oaxaquitos-company)  
+- Documento de diseño (GDD): [https://github.com/Mrbones-art/oaxaquitos-company/blob/main/GDD.md]  
 - 
 
 ---
 
-*Este documento fue elaborado por [nombre del responsable de la entrega].*
+*Este documento fue elaborado por [Ivan Martinez Mendoza].*
