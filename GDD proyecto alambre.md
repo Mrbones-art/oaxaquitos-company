@@ -4,11 +4,11 @@
     Ivan Martinez Mendoza**
 
 ## Integrantes del Equipo.
-[Emilia Elizabeth Lopez Martinez
-Ian Karol Flores Lopez
-Norma Angelica Tejeda Sandoval
-Maryan Cabrera Arevalo
-Ivan Martinez Mendoza]: # 
+//[Emilia Elizabeth Lopez Martinez
+//Ian Karol Flores Lopez
+//Norma Angelica Tejeda Sandoval
+//Maryan Cabrera Arevalo
+//Ivan Martinez Mendoza]: # 
 
 
 [Añade una imagen de tu juego.]: #
