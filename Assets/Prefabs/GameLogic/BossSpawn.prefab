@@ -67,7 +67,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.68743134, y: -5.61997}
+  m_Offset: {x: -2.3829422, y: 1.7517977}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -77,7 +77,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 21.464249, y: 13.714356}
+  m_Size: {x: 8.63739, y: 28.457891}
   m_EdgeRadius: 0
 --- !u!114 &995787836691508188
 MonoBehaviour:
@@ -93,5 +93,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bossObject: {fileID: 0}
   bossIntroDialogue:
-  - Debes de estar buscando a tu familia, no te preocupes, la mantendre a salvo en
-    mi cocina
+  - "\xA1TIEMBLA ANTE MI!"
+  bossTheme: {fileID: 8300000, guid: a1344800db8f85846aa1cebfce0a08f0, type: 3}

@@ -17,7 +17,7 @@ public class RestartController : MonoBehaviour
 
     private System.Collections.IEnumerator RestartSceneCoroutine(string sceneName)
     {
-        yield return new WaitForSeconds(1f); // Optional delay for loading screen
+        yield return new WaitForSeconds(3f); // Optional delay for loading screen
         SceneManager.LoadScene(sceneName);
     }
 }

@@ -257,7 +257,7 @@ MonoBehaviour:
   Prefabbala: {fileID: 1350617690387073951, guid: 5bcd07882c3f5f64dbc6154e0c7f9387, type: 3}
   firepoint: {fileID: 2836689611579435184}
   muzzleFlashAnimator: {fileID: 1384198502362082209}
-  initialAmmo: 999
+  initialAmmo: 306
   clipSize: 6
 --- !u!114 &4881121199563917001
 MonoBehaviour:
@@ -314,7 +314,19 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: RestartController, Assembly-CSharp
-        m_MethodName: RestartLevel
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: DeathMusicController, Assembly-CSharp
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -344,7 +356,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: HealthbarUI, Assembly-CSharp
-        m_MethodName: UpdateHealthBar
+        m_MethodName: 
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 4881121199563917001}
