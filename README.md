@@ -70,7 +70,8 @@
 
 - Repositorio en GitHub:(https://github.com/Mrbones-art/oaxaquitos-company)  
 - Documento de diseño (GDD): [https://github.com/Mrbones-art/oaxaquitos-company/blob/main/GDD.md]  
-- Itch.io: https://oaxaquitos-company.itch.io/lasconsecuenciasdeholly 
+- Itch.io: https://oaxaquitos-company.itch.io/lasconsecuenciasdeholly
+- Video Explicacion:  https://drive.google.com/drive/folders/1pbvBCaU02ewUS6y4pj_e5_Da9-fVG685?usp=sharing 
 
 ---
 
