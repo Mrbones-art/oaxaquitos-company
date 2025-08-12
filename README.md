@@ -54,12 +54,12 @@ Abrir el link a itch.io y darle jugar, ¡asi de sencillo!
 
 ## 3. Capturas de Pantalla
 <img src="LOGO HOLLY.png" width="90%" height="Auto">
+----
 
+<img src="Level2.png" width="80%" height="Auto">
+----
 
-<img src="level2.png" width="80%" height="Auto">
-
-
-<img src="juego.png" width="80%" height="Auto">
+<img src="Juego.png" width="80%" height="Auto">
 ---
 
 ## Problemas o bloqueos

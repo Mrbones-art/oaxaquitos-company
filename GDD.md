@@ -13,7 +13,7 @@
 -
 [Añade una imagen de tu juego.]: #
 
-<img src="juego.png" width="80%" height="Auto">
+<img src="Juego.png" width="80%" height="Auto">
 
 <img src="menuPrincipal.png" width="80%" height="Auto">
 ---
