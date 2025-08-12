@@ -17,7 +17,12 @@
 ## Pasos para ejecutar el juego.
 Abrir el link a itch.io y darle jugar, ¡asi de sencillo!
 
-
+## Disparar: Clic Derecho o el boton X con control
+## Moverse: WASD o con el stick izquierdo de un control
+ - W= Arriba
+ - A= Izquierda
+ - S= Abajo
+ - D= Derecha 
 
 
 ---
@@ -27,10 +32,10 @@ Abrir el link a itch.io y darle jugar, ¡asi de sencillo!
 | Nombre | Colaboracion | Comunicacion | Responsabilidad
 | ----------- | ----------- |    -----------      | ----------- | 
 | Emilia   |  10        | 10           |        10      |
-|  Angie   |   8.5       |  8.5          |       8        |
-|  Ian     |    8      |     8       |        7       |
+|  Angie   |   8.5       |  8.5          |       7.5        |
+|  Ian     |    7      |     7       |        7       |
 |  Ana     |    9      |     8       |         9      |
-|  Ivan     |    10     |     9.4      |         9.6      |
+|  Ivan     |    8     |     9.4      |         9.6      |
 ---
 
 ## ¯ Objetivos del sprint
