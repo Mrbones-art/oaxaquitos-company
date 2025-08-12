@@ -17,11 +17,24 @@
 
 ## Tabla de evaluacion del equipo.
 
-| Nombre | Colaboracion | Comunicacion | Responsabilidad
+| Nombre | Colaboracion | Comunicacion | Responsabilidad|
+|--|--|--|--|
 | -Emilia- |  10        | 10           |        10      |
 |  Angie   |   10       |  10          |       9        |
 |  Ian     |   10       |     10       |        9       |
 |  Ana     |    10      |     10       |         9      |
+
+[recuerden que no pueden repetir calificación]: #  
+
+## 🎮 Instrucciones de uso
+[Describe cómo ejecutar el proyecto: versión de Unity, plataforma objetivo, controles, etc.]
+
+Ejemplo:
+- Unity versión: 2022.3.x LTS
+- Plataforma: PC
+- Controles: Teclas de flecha para moverse, espacio para saltar
+
+
 ---
 
 ## ¯ Objetivos del sprint
