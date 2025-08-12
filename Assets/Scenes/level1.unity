@@ -441,7 +441,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3457945347244876401, guid: 5eaa8acbec275d74c9b34a4545c5c2de, type: 3}
       propertyPath: m_Volume
-      value: 0.395
+      value: 0.259
       objectReference: {fileID: 0}
     - target: {fileID: 3457945347244876401, guid: 5eaa8acbec275d74c9b34a4545c5c2de, type: 3}
       propertyPath: m_Resource
@@ -1257,6 +1257,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BossSpawn
       objectReference: {fileID: 0}
+    - target: {fileID: 7699468850505634138, guid: 939156394e515054884efe8e2be19170, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1279,7 +1283,7 @@ GameObject:
   - component: {fileID: 1191374645}
   - component: {fileID: 1191374644}
   - component: {fileID: 1191374643}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
