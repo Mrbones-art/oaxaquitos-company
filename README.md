@@ -12,6 +12,11 @@
 **Fecha de entrega del reporte:** [30/05/2025]: #  
 **Resumen:** [Se trata de una mujer que trata de salvar a su escuela de una amenaza es un juego topdown shooter que se inspira en hotline miami]: #
 
+## Pasos para ejecutar el juego.
+ descargar el archivo que se llama build 2, descomprimirlo, y abrir el archivo que dice topdown
+
+
+
 
 ---
 
@@ -74,5 +79,16 @@
 - Video Explicacion:  https://drive.google.com/drive/folders/1pbvBCaU02ewUS6y4pj_e5_Da9-fVG685?usp=sharing 
 
 ---
+## Assets utilizados.
+https://atebits.itch.io/health-pack// paquete de salud
+https://arcadeisland.itch.io/guns-asset-pack-v1 //icono de arma ui
+https://limezu.itch.io/moderninteriors //paredes
+https://petricakegames.itch.io/retro-hell-space-sci-fi-tileset // tiles 2
+https://thelazystone.itch.io/post-apocalypse-pixel-art-asset-pack //tiles suelo
+
+--- musica--
+
+https://youtu.be/9ltKrDT34kk
+
 
 *Este documento fue elaborado por [Ivan Martinez Mendoza].*
