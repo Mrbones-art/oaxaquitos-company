@@ -1,5 +1,7 @@
 # Reporte de Avance - Desarrollo de Videojuego
 
+<img src="portada juego definitiva.png" width="90%" height="Auto">
+
 **Nombre del equipo:** [Oaxaquitos company]  
 **Integrantes:**  
 - Emilia Elizabeth Lopez Martinez 
@@ -13,7 +15,7 @@
 **Resumen:** [Se trata de una mujer que trata de salvar a su escuela de una amenaza es un juego topdown shooter que se inspira en hotline miami]: #
 
 ## Pasos para ejecutar el juego.
- descargar el archivo que se llama build 2, descomprimirlo, y abrir el archivo que dice topdown
+Abrir el link a itch.io y darle jugar, ¡asi de sencillo!
 
 
 
@@ -23,6 +25,7 @@
 ## Tabla de evaluacion del equipo.
 
 | Nombre | Colaboracion | Comunicacion | Responsabilidad
+| ----------- | ----------- |    -----------      | ----------- | 
 | Emilia   |  10        | 10           |        10      |
 |  Angie   |   8.5       |  8.5          |       8        |
 |  Ian     |    8      |     8       |        7       |
@@ -49,6 +52,13 @@
 
 ---
 
+## 3. Capturas de Pantalla
+<img src="LOGO HOLLY.png" width="90%" height="Auto">
+<img src="level2.png" width="90%" height="Auto">
+
+<img src="juego.png" width="90%" height="Auto">
+---
+
 ## Problemas o bloqueos
 
 - no se pudo logar que los sprites se animen por un problema tecnico de unity
@@ -57,7 +67,7 @@
 
 ## Cambios respecto al plan original
 
-- [Sin Cambios]
+- [hubo algunos cambios enla forma con la que el personaje interactua con los jefes finales y un pequeño cambio en la historia, no busca a su familia, busca salir de donde sea que se emncuentre]
 
 ---
 
@@ -71,7 +81,7 @@
 
 ---
 
-## ðŸ”— Enlaces relevantes
+”— Enlaces relevantes
 
 - Repositorio en GitHub:(https://github.com/Mrbones-art/oaxaquitos-company)  
 - Documento de diseño (GDD): [https://github.com/Mrbones-art/oaxaquitos-company/blob/main/GDD.md]  
